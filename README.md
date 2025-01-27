@@ -32,7 +32,7 @@
 ## **Tech Stack**
 
 - **Frontend**: React.js (powered by Vite)
-- **Styling**: Bootstrap / Tailwind CSS
+- **Styling**: Bootstrap
 - **Version Control**: Git
 
 ---
